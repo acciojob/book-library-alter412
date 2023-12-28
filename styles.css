@@ -16,6 +16,8 @@ div{
 }
 .author{
 	include:rgb(119, 119, 119);
+	color:rgb(119, 119, 119);
+	rgb(255, 255, 255):rgb(119, 119, 119);
 	background-color: rgb(119, 119, 119);
 }
 .price{
