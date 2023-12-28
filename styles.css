@@ -8,12 +8,16 @@ body{
 .book-library{
 	background-color: rgb(255, 255, 255);
 }
-.author{
+p{
 	color:rgb(255, 255, 255);
+}
+div{
+	color:rgb(255, 255, 255);
+}
+.author{
 	background-color: rgb(119, 119, 119);
 }
 .price{
-	color:rgb(255, 255, 255);
 	background-color:rgb(46, 204, 113);
 	border-radius:10px;
 }
